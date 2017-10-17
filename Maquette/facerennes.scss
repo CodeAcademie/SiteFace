@@ -1,0 +1,143 @@
+/*!
+ * Gaia theme v4.0.0-alpha.6
+ * Homepage: https://pingendo.com
+ * Copyright 2014-2017 Pingendo
+ * Licensed under MIT
+ * Based on Bootstrap
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+// Reassign color vars to semantic color scheme
+$brand-primary:             #2b9096;
+
+$brand-success:             white;
+
+$brand-info:                #f2b695;
+
+$brand-warning:             #f0ad4e;
+$brand-danger:              #d9534f;
+$brand-inverse:             #292b2c;
+ 
+
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+ 
+$enable-rounded:            true !default;
+$enable-shadows:            false;
+$enable-gradients:          false;
+$enable-transitions:        true !default;
+$enable-hover-media-query:  false !default;
+$enable-grid-classes:       true !default;
+$enable-print-styles:       true !default;
+
+// Variables
+//
+// Theme settings.
+
+
+$body-color: #454545;
+$body-color-inverse: invert($body-color) !default;
+$link-color: #f2b695;
+
+
+$font-family-base: Arial, Helvetica, sans-serif;
+
+
+$headings-font-family: Arial, Helvetica, sans-serif;
+
+
+
+$font-size-base: 1rem; // Assumes the browser default, typically `16px`
+$font-size-h1: 2.5 * $font-size-base;
+$font-size-h2: 2 * $font-size-base;
+$font-size-h3: 1.75 * $font-size-base;
+$font-size-h4: 1.5 * $font-size-base;
+$font-size-h5: 1.25 * $font-size-base;
+$font-size-h6: $font-size-base;
+
+$display1-size: 6 * $font-size-base;
+$display2-size: 5.5 * $font-size-base;
+$display3-size: 4.5 * $font-size-base;
+$display4-size: 3.5 * $font-size-base;
+
+$border-radius: 0px;
+$border-radius-lg: $border-radius * 1.2;
+$border-radius-sm: $border-radius * .8;
+
+html,body {
+  scroll-behavior: smooth;
+
+}$body-bg: white;
+@import 'bootstrap-4.0.0-alpha.6';
+
+#texte-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#logo {
+  width: 15%;
+}
+
+#header {
+  background-attachment: fixed;
+  background-position: top;
+}
+
+#text-present {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#actions {
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+}
+
+#partenaire {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow {
+width: 0;
+height: 0;
+border-style: solid;
+border-width: 100px 100px 0 100px;
+border-color: #2b9196 transparent transparent transparent;
+line-height: 0px;
+}
+
+#arrow {
+border-color: white transparent transparent transparent;
+}
+
+.text-white {
+  margin-top: 50px;
+}
+
+i:hover {
+  color: #2b9096 !important;
+  cursor: pointer;
+}
+
+.une {
+  cursor: pointer;
+}
+
+.une:hover {
+  cursor: pointer;
+     -ms-transform: scale(1.2,1.2); /* IE 9 */
+    -webkit-transform: scale(1.2,1.2); /* Safari */
+    transform: scale(1.2,1.2); /* Standard syntax */
+}
+
+#title-head {
+  font-size: 2.5em;
+}

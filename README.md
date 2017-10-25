@@ -17,17 +17,19 @@ Le Lead Formateur du dispositif, M. Erwann DUCLOS, nous a contacté afin de réa
 ## Définition globale du projet
 Le site internet a pour but de promouvoir les actions et interventions réalisées au sein de FACE Rennes. 
 Il est demandé de réaliser un site internet fluide, responsive, respectant les normes de référencement.
-L'attente au niveau de ce site est la suivante : 
- * Rapidité de chargement
- * Présentation des missions en cours
- * Intégration des flux des réseaux sociaux
- * Présentation des méthodes de financement
+L'attente au niveau de ce site est la suivante :
+
+* Rapidité de chargement
+* Présentation des missions en cours
+* Intégration des flux des réseaux sociaux
+* Présentation des méthodes de financement
 
 ## Définition de la cible
 
 La cible de cette application:
- * Les entreprises soucieuse de la politique RSE
- * Les publics (demandeurs d'emplois) souhaitant être orientés/formés par FACE
+
+* Les entreprises soucieuse de la politique RSE
+* Les publics (demandeurs d'emplois) souhaitant être orientés/formés par FACE
 
 
 ## Définition du commanditaire
@@ -44,31 +46,32 @@ cf. [pièce jointe](./annexes/charte_graphique).
 
 Le menu se doit d'être simple : 
 
-	* Accueil
-	* Nos Missions
-	* Nous financer
-	* A Propos
+* Accueil
+* Nos Missions
+* Nous financer
+* A Propos
 
 ### Accueil
 Cette page permettra de voir de nombreuses informations en one page :
 
-	* **FACE :** Le club d'entreprises + § de présentation
-	* **Actions :** Statistiques réalisées (semblable à la maquette mais en plus "punchy" si possible) 
-	* **Ils nous font confiance :** § de présentation + Logos des partenaires majeurs (~10)
-	* **Actualités :** Suivi des flux de RSS (Twitter et Facebook)
-	* **Les institutionnels :** Logos + Back links
-	* **Nous contacter :** Formulaire de contact
+* **FACE :** Le club d'entreprises + § de présentation
+* **Actions :** Statistiques réalisées (semblable à la maquette mais en plus "punchy" si ossible) 
+* **Ils nous font confiance :** § de présentation + Logos des partenaires majeurs (~10)
+* **Actualités :** Suivi des flux de RSS (Twitter et Facebook)
+* **Les institutionnels :** Logos + Back links
+* **Nous contacter :** Formulaire de contact
 	
 ### Nos Missions
 
 Une mission est structurée de la manière suivante : 
- * Un titre
- * Un ou plusieurs chargés de mission (Avec email de contact)
- * Une description
- * Une image "A la une"
- * Plusieurs logos des partenaires privilégiés (facultatif)
- * Une date de début
- * Un statut : "A venir / En cours  / Terminé"
+
+* Un titre
+* Un ou plusieurs chargés de mission (Avec email de contact)
+* Une description
+* Une image "A la une"
+* Plusieurs logos des partenaires privilégiés (facultatif)
+* Une date de début
+* Un statut : "A venir / En cours  / Terminé"
 
 Au sein de la page des missions, il doit être possible de visualiser l'ensemble des missions en cours. 
 Un lien doit être disponible afin de pouvoir visualiser les anciennes missions réalisées. 
@@ -93,9 +96,9 @@ Toute page doit s'afficher en moins de 2 secondes.
 
 ### Respecter les bonnes normes de référencement 
 
- * Site en https
- * Image avec texte alternatifs contenant des mots clés pertinent
- * Ajouter des mentions légaes
+* Site en https
+* Image avec texte alternatifs contenant des mots clés pertinent
+* Ajouter des mentions légaes
 
 ### Administration
 Uniquement l'administrateur aura la possibilité de créer, modifier, supprimer des pages et des articles.

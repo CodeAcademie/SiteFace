@@ -1,11 +1,11 @@
-\title{Siten de FACE Rennes \\ Expression de Besoin v0.1}
+\title{Site de FACE Rennes \\ Expression de Besoin v0.2}
 \author{Erwann DUCLOS}
-\date{17 Octobre 2017}
+\date{25 Octobre 2017}
 \maketitle
 \newpage
 
 
-# Quizz Code Académie
+# Site FACE.bzh
 
 ## Sommaire
 Le dispositif de la Code Académie, a été créé par l'organisme de formation FACE Rennes.
@@ -43,6 +43,7 @@ cf. [pièce jointe](./annexes/charte_graphique).
 ## Menu du site
 
 Le menu se doit d'être simple : 
+
 	* Accueil
 	* Nos Missions
 	* Nous financer
@@ -54,7 +55,7 @@ Cette page permettra de voir de nombreuses informations en one page :
 	* **FACE :** Le club d'entreprises + § de présentation
 	* **Actions :** Statistiques réalisées (semblable à la maquette mais en plus "punchy" si possible) 
 	* **Ils nous font confiance :** § de présentation + Logos des partenaires majeurs (~10)
-	* **Actualités :** Suivi des flux de RSS 
+	* **Actualités :** Suivi des flux de RSS (Twitter et Facebook)
 	* **Les institutionnels :** Logos + Back links
 	* **Nous contacter :** Formulaire de contact
 	
@@ -124,6 +125,8 @@ Cette application se devra d'être compatible avec la majorités des navigateurs
  * Opera 46+
 
 
+## Informations Complémentaires
+Ce site sera à déployer sur le domaine http://face.bzh. Un site existe déjà actuellement et sera à retirer. Le contenu néanoins sera à transférer sur le nouveau site.
 
 ## Contacts
 
